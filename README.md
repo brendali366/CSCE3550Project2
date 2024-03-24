@@ -33,5 +33,5 @@ How I installed it:
 
 -> Ran Gradebot and shows 55/65 for grade. 
 
--> Coverage unknowingly shows 0 even though it is running successfully as shown on Gradebot.  
+-> Coverage unknowingly shows 0 even though it is running successfully as shown on Gradebot. I tried multiple methods to try to fix this but it did not work.
 
